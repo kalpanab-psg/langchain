@@ -2,7 +2,7 @@ import os
 from constants import openai_key
 os.environ['OPENAI_API_KEY']=openai_key
 
-#https://www.youtube.com/watch?v=u8vQyTzNGVY
+
 
 import streamlit as st
 from langchain.llms import OpenAI
